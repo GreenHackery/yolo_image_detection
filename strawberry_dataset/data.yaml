@@ -1,0 +1,11 @@
+names:
+  0: dead
+  1: overripe
+  2: ripe
+  3: strawberry
+  4: stem
+  5: stem_leaves
+  6: underripe
+path: /home/daniel/projects/foodlikeair/yolo_image_detection/strawberry_dataset
+train: images/train
+val: images/val

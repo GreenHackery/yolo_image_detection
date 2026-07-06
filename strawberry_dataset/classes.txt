@@ -1,0 +1,7 @@
+dead
+overripe
+plant_leaf
+ripe
+stem
+stem_leaves
+underripe
